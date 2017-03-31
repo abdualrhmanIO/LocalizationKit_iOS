@@ -25,5 +25,5 @@ LocalizationKit is the easiest way to manage your texts and translations. It rem
   s.osx.deployment_target = '10.10'
   s.source_files = 'LocalizationKit/Classes/**/*'
 
-  s.dependency 'Socket.IO-Client-Swift', '~>8.2.0'
+  s.dependency 'Socket.IO-Client-Swift', '~> 8.3.3'
 end
